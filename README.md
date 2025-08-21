@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Blockchain, Rust, Smart Contract**
 
-- 👯 I’m looking to collaborate on [Charity Platform](https://68a2e54e3d532e658c7b31c7--institutional-charity-platform.netlify.app)
-
 - 📫 How to reach me **kinginthenorth558@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
