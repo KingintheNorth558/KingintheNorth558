@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm <strong>King in the North</strong></h1>
+<h1 align="center">Hey, I'm <strong>King in the North</strong></h1>
 <h3 align="center">Web3 • DeFi • Open-Source Builder</h3>
 
 <p align="center">
@@ -16,9 +16,9 @@
 ---
 
 ## 🛠️ Tech Stack  
-**Frontend:** React • TailwindCSS • JavaScript • HTML • CSS  
-**Backend:** Node.js • Express • MongoDB  
-**Web3 / Systems:** Rust • Firebase  
+**Frontend:** Python • Java • React • Next • TailwindCSS • JavaScript • HTML • CSS  
+**Backend:** Node.js • Express • MongoDB • Mongoose 
+**Web3 / Systems:** Rust • Firebase  • Redis
 **AI / ML:** PyTorch • TensorFlow • scikit-learn  
 
 ---
